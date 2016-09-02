@@ -39,7 +39,7 @@ a:hover {
 .titleH2 {
   width: 135px;
   height: 45px;
-  background: url("../../images/sprit.png") no-repeat;
+  background: url("../images/sprit.png") no-repeat;
   text-indent: -99em;
   overflow: hidden;
 }
@@ -56,7 +56,7 @@ header {
 header .header {
   width: 1000px;
   height: 126px;
-  background: url("../../images/logo.jpg") no-repeat;
+  background: url("../images/logo.jpg") no-repeat;
   top: 0;
   left: 0;
   margin: 0 auto;
@@ -130,7 +130,7 @@ header li .little_nav_div .little_nav a:hover {
   width: 100%;
   height: 508px;
   position: relative;
-  background: #fff url("../../images/falsh_bg.png") repeat-x;
+  background: #fff url("../images/falsh_bg.png") repeat-x;
   overflow-x: hidden ;
   /*防止x轴进度条*/
   z-index: 5;
@@ -162,7 +162,7 @@ header li .little_nav_div .little_nav a:hover {
   margin-top: -56.5px;
   text-indent: -99em;
   overflow: hidden;
-  background: url("../../images/icon1.png") no-repeat;
+  background: url("../images/icon1.png") no-repeat;
   cursor: pointer;
 }
 .flash .flash_left {
@@ -221,7 +221,7 @@ header li .little_nav_div .little_nav a:hover {
   width: 100%;
   height: 100%;
   display: block;
-  background: url("../../images/icon.png");
+  background: url("../images/icon.png");
 }
 .animation .animationMain .animate_0 {
   background-position: left bottom;
@@ -318,7 +318,7 @@ header li .little_nav_div .little_nav a:hover {
   border-radius: 2px;
   height: 100%;
   width: 491px;
-  background: #44464f url("../../images/ahoutUs_dd_2.png") no-repeat top left;
+  background: #44464f url("../images/ahoutUs_dd_2.png") no-repeat top left;
   float: left;
 }
 .aboutHZ .about_txt span {
@@ -340,7 +340,7 @@ header li .little_nav_div .little_nav a:hover {
   left: 930px;
   width: 78px;
   height: 31px;
-  background: url("../../images/sprit.png") no-repeat top left;
+  background: url("../images/sprit.png") no-repeat top left;
 }
 .aboutHZ .AboutBtn a {
   float: left;
@@ -384,7 +384,7 @@ header li .little_nav_div .little_nav a:hover {
   left: 930px;
   width: 78px;
   height: 31px;
-  background: url("../../images/sprit.png") no-repeat top left;
+  background: url("../images/sprit.png") no-repeat top left;
 }
 .partner .Btn a {
   float: left;
@@ -397,14 +397,14 @@ header li .little_nav_div .little_nav a:hover {
   width: 100%;
   height: 322px;
   border-top: 4px #e1e1e1 solid;
-  background: url("../../images/news_bg.png") repeat-x;
+  background: url("../images/news_bg.png") repeat-x;
 }
 .news .newsMain {
   width: 1000px;
   height: 100%;
   margin: 0 auto;
   color: #fff;
-  background: url("../../images/news_dt_bg.png") no-repeat top left;
+  background: url("../images/news_dt_bg.png") no-repeat top left;
 }
 .news .newsMain dl {
   width: 333px;
@@ -421,7 +421,7 @@ header li .little_nav_div .little_nav a:hover {
   border-bottom: 1px solid #73c1f7;
   border-top: 1px solid #73c1f7;
   padding: 10px 0 28px 23px;
-  background: url("../../images/news_dd_bg.png") repeat-x;
+  background: url("../images/news_dd_bg.png") repeat-x;
 }
 .news .newsMain dl dd p {
   line-height: 24px;
@@ -444,7 +444,7 @@ header li .little_nav_div .little_nav a:hover {
 .news .newsMain .Cantact i {
   width: 35px;
   height: 35px;
-  background: url("../../images/sprit.png") no-repeat -87px 0;
+  background: url("../images/sprit.png") no-repeat -87px 0;
   position: absolute;
   top: 0;
   left: 0;
@@ -487,12 +487,12 @@ header li .little_nav_div .little_nav a:hover {
   position: absolute;
   top: 0;
   left: 0;
-  background: url("../../images/sprit.png") no-repeat -80px -188px;
+  background: url("../images/sprit.png") no-repeat -80px -188px;
 }
 .Totop {
   width: 44px;
   height: 44px;
-  background: url("../../images/sprit.png") no-repeat left bottom;
+  background: url("../images/sprit.png") no-repeat left bottom;
   position: fixed;
   bottom: 30px;
   left: 50%;
@@ -521,7 +521,7 @@ header li .little_nav_div .little_nav a:hover {
   border-top: 1px solid #d0d0d0;
   border-left: 1px solid #d0d0d0;
   border-right: 1px solid #d0d0d0;
-  background: url("../../images/sprit.png") no-repeat;
+  background: url("../images/sprit.png") no-repeat;
 }
 .slideContact .a1 {
   background-position: -1px -35px;
@@ -533,7 +533,7 @@ header li .little_nav_div .little_nav a:hover {
   background-position: -1px -157px;
 }
 .slideContact i {
-  background: url("../../images/sprit.png") no-repeat;
+  background: url("../images/sprit.png") no-repeat;
   background-position: 0px -218px;
   height: 14px;
   display: block;
@@ -547,7 +547,7 @@ header li .little_nav_div .little_nav a:hover {
   height: 256px;
   border-bottom: 3px solid #43aac1;
   border-top: 3px solid #43aac1;
-  background: url("../../images/pro_img.jpg") top center;
+  background: url("../images/pro_img.jpg") top center;
 }
 .pro_nav {
   width: 100%;
@@ -571,7 +571,7 @@ header li .little_nav_div .little_nav a:hover {
   font-size: 14px;
 }
 .pro_nav .pro_current {
-  background: url("../../images/sprit.png") no-repeat -137px 0;
+  background: url("../images/sprit.png") no-repeat -137px 0;
   color: #0771ba;
 }
 .pro_animate {
@@ -590,7 +590,7 @@ header li .little_nav_div .little_nav a:hover {
   height: 174px;
   margin: 0 27px 38px 0;
   float: left;
-  background: url("../../images/sprit.png") no-repeat -146px -54px;
+  background: url("../images/sprit.png") no-repeat -146px -54px;
   padding: 6px 6px 0 5px;
 }
 .pro_animate li p {
@@ -625,7 +625,7 @@ header li .little_nav_div .little_nav a:hover {
   color: #006ba7;
 }
 .about_img {
-  background: url("../../images/aboutUs_img.jpg") top center;
+  background: url("../images/aboutUs_img.jpg") top center;
 }
 .aboutUs_txt_box {
   position: relative;
@@ -640,7 +640,7 @@ header li .little_nav_div .little_nav a:hover {
 .aboutUs_nav dt {
   width: 187px;
   height: 41px;
-  background: url("../../images/sprit.png") no-repeat -382px -204px;
+  background: url("../images/sprit.png") no-repeat -382px -204px;
 }
 .aboutUs_nav dd {
   border: 1px #d9d3d3 solid;
@@ -658,13 +658,13 @@ header li .little_nav_div .little_nav a:hover {
   color: #4f4848;
 }
 .aboutUs_nav dd .cur_a {
-  background: url("../../images/sprit.png") no-repeat -169px -258px;
+  background: url("../images/sprit.png") no-repeat -169px -258px;
   color: #017bc1;
 }
 .aboutUs_nav .nav_footer {
   width: 185px;
   height: 165px;
-  background: url("../../images/sprit.png") no-repeat -382px 0;
+  background: url("../images/sprit.png") no-repeat -382px 0;
   border: none;
 }
 .aboutUs_txt {
@@ -674,7 +674,7 @@ header li .little_nav_div .little_nav a:hover {
 }
 .aboutUs_txt dl {
   padding-left: 38px;
-  background: url("../../images/about_txt_bg.png") no-repeat;
+  background: url("../images/about_txt_bg.png") no-repeat;
   padding-top: 53px;
 }
 .aboutUs_txt dt {
